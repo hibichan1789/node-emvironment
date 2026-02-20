@@ -12,6 +12,7 @@ console.log(formatUserList(users));
 /*
 The User type consists of three properties: id(number), name(string), and age(number).
 The formatUserList function takes an array of objects based on the User type and returns an array of formatted string.
+This iterates through the input array and format to "User [id]: [name] [age] years old".
 If the input user's age is 18 or older, the formatted string added (Adult).
 */
 

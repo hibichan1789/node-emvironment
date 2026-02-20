@@ -55,7 +55,7 @@ The private method's details is as follows.
 
 The getNewId method get a stored list of tasks and generate new id.
 
-The new id is the number which is the iterated number of the stored maximal id.
+The new id is the number which is the incremented number of the stored maximal id.
 
 
 
