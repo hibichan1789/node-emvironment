@@ -27,7 +27,7 @@ console.log(updatedItems2);
 /*
 The Item interface consists of three properties: id, name, and stock.
 The updateStock function takes an array of objects base on the item interface, a targetId(number), and an amount(number).
-It iterates through the array, search for the item whose id matches to the input targetId.
+It iterates through the array and searches for the item whose id matches to the input targetId.
 If the target item is not found, it returns the input array.
 Otherwise, it adds the item stock by the input amount, and returns an new converted array of objects.
 */
